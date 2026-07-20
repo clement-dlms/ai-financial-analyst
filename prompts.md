@@ -71,13 +71,4 @@ Facts
 Assumptions
 
 Analyst interpretation
-```
-
-# OK
-## OK
-### OK
-
->[!caution]
->HELP
->Warning
->
+```22

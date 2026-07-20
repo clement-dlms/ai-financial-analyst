@@ -6,4 +6,4 @@
 
 ## Description
 
-Here, i experiment ai finance oriented skills, i build this skill to work with claude.
+Here, i experiment ai finance oriented skills, i build these skills to work with claude.ai

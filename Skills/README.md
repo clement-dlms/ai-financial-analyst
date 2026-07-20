@@ -1,5 +1,8 @@
 # Skills Structure
 
+>[!tip]
+>The raw prompts are at the end of each page !
+
 ## AI Equity Research Platform
 
 ```mermaid

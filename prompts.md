@@ -6,7 +6,7 @@
 ## Templates
 
 ### Prompt 1
-
+```
 # Objective
 
 I want to analyze [COMPANY] as a long-term investor.
@@ -71,3 +71,4 @@ Facts
 Assumptions
 
 Analyst interpretation
+```

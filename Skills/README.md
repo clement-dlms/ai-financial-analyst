@@ -1,54 +1,28 @@
 # Skills Structure
 
-                 AI EQUITY RESEARCH PLATFORM
+# AI Equity Research Platform
 
+```mermaid
+flowchart TD
 
-                         COMPANY
+    A[COMPANY]
 
+    A --> B[FINANCIALS]
+    A --> C[BUSINESS]
+    A --> D[INDUSTRY]
 
-                            |
-        ┌───────────────────┼───────────────────┐
-        ▼                   ▼                   ▼
+    B --> E[Valuation]
+    C --> F[Moat]
+    D --> G[Competition]
 
-        
-   FINANCIALS           BUSINESS             INDUSTRY
-      |                   |                    |
-      ▼                   ▼                    ▼
+    E --> H[MANAGEMENT]
+    F --> H
+    G --> H
 
-   Valuation            Moat              Competition
+    H --> I[EARNINGS UPDATES]
 
+    I --> J[RISK ENGINE]
 
-        └───────────────────┼───────────────────┘
-                            |
-                            ▼
+    J --> K[INVESTMENT THESIS]
 
-
-                     MANAGEMENT
-
-
-                            |
-                            ▼
-
-
-                    EARNINGS UPDATES
-
-
-                            |
-                            ▼
-
-
-                       RISK ENGINE
-
-
-                            |
-                            ▼
-
-
-                  INVESTMENT THESIS
-
-
-                            |
-                            ▼
-
-
-             INVESTMENT COMMITTEE REVIEW
+    K --> L[INVESTMENT COMMITTEE REVIEW]

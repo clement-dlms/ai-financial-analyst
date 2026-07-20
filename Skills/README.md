@@ -1,6 +1,6 @@
 # Skills Structure
 
-# AI Equity Research Platform
+## AI Equity Research Platform
 
 ```mermaid
 flowchart TD
